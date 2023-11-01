@@ -1,8 +1,5 @@
 # Luhn
 
-Welcome to Luhn on Exercism's JavaScript Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
-
 ## Instructions
 
 Given a number determine whether or not it is valid per the Luhn formula.
@@ -68,23 +65,6 @@ Sum the digits
 
 57 is not evenly divisible by 10, so this number is not valid.
 
-## Source
-
-### Created by
-
-- @matthewmorgan
-
-### Contributed to by
-
-- @ankorGH
-- @gabriel376
-- @ovidiu141
-- @rchavarria
-- @ryanplusplus
-- @SleeplessByte
-- @tejasbubane
-- @xarxziux
-
-### Based on
+## Based on
 
 The Luhn Algorithm on Wikipedia - http://en.wikipedia.org/wiki/Luhn_algorithm
